@@ -1,0 +1,8 @@
+new: 5
+insert 0 1 1 1
+insert 0 2 0.2 1
+insert 3 0 0.1 1
+insert 4 1 1 1
+degree 0 3
+mst 2.3 4
+delete
