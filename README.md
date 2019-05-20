@@ -7,4 +7,4 @@ Lab 2: Dynamic Stack\
 Lab 3: Leftist Heap\
 Lab 4: Hash Table\
 Lab 5: Weighted Graph\
-Lab 6: Trie node\
+Lab 6: Trie node
